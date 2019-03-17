@@ -1,0 +1,8 @@
+2019-03-10 11:27:23 INFO  TestBase:27 - Opening Browser
+2019-03-10 11:27:32 INFO  TestBase:45 - Verifying Logo of the Company
+2019-03-10 11:27:34 INFO  TestBase:27 - Opening Browser
+2019-03-10 11:27:38 INFO  TestBase:52 - Verifying Title of Page
+2019-03-10 11:27:39 INFO  TestBase:27 - Opening Browser
+2019-03-10 11:27:52 INFO  TestBase:27 - Opening Browser
+2019-03-10 11:27:56 INFO  TestBase:35 - Verifying login
+2019-03-10 11:28:01 INFO  TestBase:27 - Opening Browser

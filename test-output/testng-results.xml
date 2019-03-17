@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-03-10T15:27:23Z" name="Functional" finished-at="2019-03-10T15:28:11Z" duration-ms="48062">
+    <groups>
+    </groups>
+    <test started-at="2019-03-10T15:27:23Z" name="Jahan" finished-at="2019-03-10T15:28:11Z" duration-ms="48062">
+      <class name="com.TestCases.LoginPageTest">
+        <test-method is-config="true" signature="log()[pri:0, instance:com.TestCases.LoginPageTest@53976f5c]" started-at="2019-03-10T15:27:23Z" name="log" finished-at="2019-03-10T15:27:23Z" duration-ms="325" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- log -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:com.TestCases.LoginPageTest@53976f5c]" started-at="2019-03-10T15:27:23Z" name="SetUp" finished-at="2019-03-10T15:27:32Z" duration-ms="8947" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="VerifyLogoofThePage()[pri:0, instance:com.TestCases.LoginPageTest@53976f5c]" started-at="2019-03-10T15:27:32Z" name="VerifyLogoofThePage" finished-at="2019-03-10T15:27:32Z" duration-ms="93" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLogoofThePage -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.TestCases.LoginPageTest@53976f5c]" started-at="2019-03-10T15:27:32Z" name="TearDown" finished-at="2019-03-10T15:27:34Z" duration-ms="1494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:com.TestCases.LoginPageTest@53976f5c]" started-at="2019-03-10T15:27:34Z" name="SetUp" finished-at="2019-03-10T15:27:38Z" duration-ms="4597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="VerifyTitleofThePage()[pri:1, instance:com.TestCases.LoginPageTest@53976f5c]" started-at="2019-03-10T15:27:38Z" name="VerifyTitleofThePage" finished-at="2019-03-10T15:27:38Z" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyTitleofThePage -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.TestCases.LoginPageTest@53976f5c]" started-at="2019-03-10T15:27:38Z" name="TearDown" finished-at="2019-03-10T15:27:39Z" duration-ms="1285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:com.TestCases.LoginPageTest@53976f5c]" started-at="2019-03-10T15:27:39Z" name="SetUp" finished-at="2019-03-10T15:27:44Z" duration-ms="4638" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="VerifyErrorMessageWithinvaliduspw()[pri:2, instance:com.TestCases.LoginPageTest@53976f5c]" started-at="2019-03-10T15:27:44Z" name="VerifyErrorMessageWithinvaliduspw" finished-at="2019-03-10T15:27:51Z" duration-ms="6468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyErrorMessageWithinvaliduspw -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.TestCases.LoginPageTest@53976f5c]" started-at="2019-03-10T15:27:51Z" name="TearDown" finished-at="2019-03-10T15:27:52Z" duration-ms="1227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:com.TestCases.LoginPageTest@53976f5c]" started-at="2019-03-10T15:27:52Z" name="SetUp" finished-at="2019-03-10T15:27:56Z" duration-ms="4611" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="VerifyLoginPage()[pri:3, instance:com.TestCases.LoginPageTest@53976f5c]" started-at="2019-03-10T15:27:56Z" name="VerifyLoginPage" finished-at="2019-03-10T15:28:00Z" duration-ms="3387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLoginPage -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.TestCases.LoginPageTest@53976f5c]" started-at="2019-03-10T15:28:00Z" name="TearDown" finished-at="2019-03-10T15:28:01Z" duration-ms="1450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:com.TestCases.LoginPageTest@53976f5c]" started-at="2019-03-10T15:28:01Z" name="SetUp" finished-at="2019-03-10T15:28:06Z" duration-ms="4825" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="VerifyHomePage()[pri:4, instance:com.TestCases.LoginPageTest@53976f5c]" started-at="2019-03-10T15:28:06Z" name="VerifyHomePage" finished-at="2019-03-10T15:28:09Z" duration-ms="3326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyHomePage -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:com.TestCases.LoginPageTest@53976f5c]" started-at="2019-03-10T15:28:09Z" name="TearDown" finished-at="2019-03-10T15:28:11Z" duration-ms="1298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.TestCases.LoginPageTest -->
+    </test> <!-- Jahan -->
+  </suite> <!-- Functional -->
+</testng-results>
