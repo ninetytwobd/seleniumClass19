@@ -3,13 +3,18 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.TestCases.ProductNServicesPageTest">
+      <class name="com.TestCases.LoginPageTest">
         <methods>
-          <include name="SetUp"/>
           <include name="TearDown"/>
-          <include name="CreateNewOrder"/>
+          <include name="VerifyLoginPage"/>
+          <include name="VerifyTitleofThePage"/>
+          <include name="log"/>
+          <include name="VerifyLogoofThePage"/>
+          <include name="SetUp"/>
+          <include name="VerifyErrorMessageWithinvaliduspw"/>
+          <include name="VerifyHomePage"/>
         </methods>
-      </class> <!-- com.TestCases.ProductNServicesPageTest -->
+      </class> <!-- com.TestCases.LoginPageTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

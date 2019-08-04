@@ -21,7 +21,7 @@ import com.TestBase.TestBase;
 
 public class TestUtil extends TestBase{
 	
-	public static long PAGELOADOUTTIME= 30;
+	public static long PAGELOADOUTTIME= 40;
 	public static long IMPLICITYWAIT= 30;
 	static Workbook book;
 	static Sheet sheet;
@@ -30,7 +30,7 @@ public class TestUtil extends TestBase{
 	
 	public static Object [][] getTestData(String sheetName){
 		
-			FileInputStream file = null;
+			FileInputStream file= null;
 			
 				try {
 					file = new FileInputStream(TESTDATA_PATH);

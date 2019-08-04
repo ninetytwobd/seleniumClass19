@@ -27,6 +27,8 @@ public class LoginPageTest extends TestBase {
 		logger.info("Opening Browser");
 		initil();
 		loginpage = new LoginPage();
+		TestUtil.captureScreenShot(driver, "Login Page");
+		
 	}
 	
 	@Test(priority = 3)
